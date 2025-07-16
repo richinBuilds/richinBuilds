@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-## Hi there 👋
-
 <!--
 **richinBuilds/richinBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 =======
-# Hi 👋! My name is Richin from Toronto!
+# Hi 👋! My name is Richin, I'm from Toronto!
 
 🚀 **Welcome to my GitHub!** 📘 I come from a non-IT background and am currently exploring the world of tech by building hands-on projects and learning new skills along the way. I'm passionate about continuous learning and excited to grow into a full-time role in the tech industry!
 
@@ -39,12 +37,17 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.sv" height="30" alt="express logo" />
+  <img width="12" />
 </div>
 
 ## My Stats 📈
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[richinBuilds]&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=[richinBuilds]&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=richinBuilds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=richinBuilds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ## Let's Connect! 📬
@@ -57,10 +60,10 @@ I'm excited to join a team where I can contribute my skills and learn from other
   <a href="https://www.linkedin.com/in/richin-richin/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
+<img align="right" height="150" src="https://tenor.com/view/coding-gif-25183725" alt="fun gif" />
 
 ## Watch My Code Slither! 🐍
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[your-username]/[your-username]/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/richinBuilds/richinBuilds/output/snake.svg" alt="Snake animation" />
 </div>
->>>>>>> fa726c0 (Adding customized README and animations)
+
