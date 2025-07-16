@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!--
 **richinBuilds/richinBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=======
-# Hi 👋! My name is Richin, I'm from Toronto!
+
+# Hi 👋! My name is Richin! From Toronto's buzz to coding with passion, I'm ready to create awesome tech!
 
 🚀 **Welcome to my GitHub!** 📘 I come from a non-IT background and am currently exploring the world of tech by building hands-on projects and learning new skills along the way. I'm passionate about continuous learning and excited to grow into a full-time role in the tech industry!
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔍 **On the Hunt**: Looking for roles where I can contribute my expertise and grow as a professional.
 - 💻 **What I Do**: I craft clean, efficient code and love solving real-world problems with a creative twist.
 - 🎮 **When I'm Not Coding**: Catch me at the gym.
-- ☕ **Fun Fact**: 
+
 
 ## My Tech Stack 🛠️
 <div align="left">
@@ -40,9 +40,14 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" alt="angular logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.sv" height="30" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="30" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
 </div>
+
 
 ## My Stats 📈
 <div align="center">
@@ -60,7 +65,7 @@ I'm excited to join a team where I can contribute my skills and learn from other
   <a href="https://www.linkedin.com/in/richin-richin/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
-<img align="right" height="150" src="https://tenor.com/view/coding-gif-25183725" alt="fun gif" />
+<img align="right" height="150" src="https://tenor.com/bRPBh.gif" alt="fun gif" />
 
 ## Watch My Code Slither! 🐍
 <div align="center">
