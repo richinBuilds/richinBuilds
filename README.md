@@ -1,19 +1,4 @@
 
-<!--
-**richinBuilds/richinBuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi 👋! My name is Richin! From Toronto's buzz to coding with passion, I'm ready to create awesome tech!
 
 🚀 **Welcome to my GitHub!** 📘 I come from a non-IT background and am currently exploring the world of tech by building hands-on projects and learning new skills along the way. I'm passionate about continuous learning and excited to grow into a full-time role in the tech industry!
@@ -21,7 +6,7 @@ Here are some ideas to get you started:
 ## A Bit About Me 🌟
 - 🔍 **On the Hunt**: Looking for roles where I can contribute my expertise and grow as a professional.
 - 💻 **What I Do**: I craft clean, efficient code and love solving real-world problems with a creative twist.
-- 🎮 **When I'm Not Coding**: Catch me at the gym.
+- ⚡ **When I'm Not Coding**: Catch me at the gym.
 
 
 ## My Tech Stack 🛠️
@@ -65,7 +50,9 @@ I'm excited to join a team where I can contribute my skills and learn from other
   <a href="https://www.linkedin.com/in/richin-richin/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
-<img align="right" height="150" src="https://tenor.com/bRPBh.gif" alt="fun gif" />
+<div align = "right">
+<img  height="150" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="fun gif" />
+</div>
 
 ## Watch My Code Slither! 🐍
 <div align="center">
